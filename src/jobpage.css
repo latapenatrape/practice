@@ -1,0 +1,21 @@
+.job {
+    padding: 20px;
+  }
+  
+  .job__map {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .job__checkpoint {
+    margin: 10px 0;
+  }
+  
+  .job__congratulations {
+    text-align: center;
+    background-color: #e8f5e9;
+    padding: 20px;
+    border: 1px solid #c8e6c9;
+  }
+  
